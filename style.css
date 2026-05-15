@@ -3,5 +3,7 @@ h1, h2, h3, h4, h5, h6, p, span, li, a, em, strong {
 }
 
 body {
-    background: url('https://kamilgamer1.github.io/Pls%20share.pdf') no-repeat center center / cover fixed;
+    /* Added 'black' at the start of the shorthand property */
+    background: black url('https://kamilgamer1.github.io/Pls%20share.pdf') no-repeat center center / cover fixed;
 }
+
